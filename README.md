@@ -1,1 +1,49 @@
-# javascript
+<html>
+<head> <meta charset="UTF-8">
+  <meta name="description" content="Example HTML page with all tags">
+  <meta name="keywords" content="html,tags,semantic">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> HTML Tags </title>
+<style>
+	section{border:solid grey 1px;
+		margin-bottom: 30px;
+		padding: 10px;}
+</style>
+
+</head>
+<body>
+	<h1> HTML All Tags Example </h1>
+<header>
+<nav>
+        <a href="#">Text</a> |
+        <a href="#">Forms</a> |
+        <a href="#">Media</a> |
+        <a href="#">Tables</a> |
+        <a href="#">Semantic</a>
+</nav>
+</header>
+<section id="text">
+	<h2>Text Formatting Tags</h2>
+    <p>This is a <strong>strong</strong> and <em>emphasized</em> text.</p>
+    <p>Use <b>bold</b>, <i>italic</i>, <u>underline</u>, and <mark>mark</mark>.</p>
+    <p>Here is <code>inline code</code> and <s>strikethrough</s> and <small>small</small.</p>
+    <p><sub>subscript</sub>/<sup>superscript</sup>.</p> <pre>  Preformatted text example </pre>
+	<blockquote cite="./HTML Tags Example_files/saved_resource">This is a blockquote example.</blockquote>
+        <abbr title="World Health Organization">WHO</abbr> is an abbreviation.
+</section>
+<section id="Lists">
+	<h2> Lists </h2>
+	<p>Ordered List </p>
+		<ol><li>Apple </li>
+		<li> Mango </li> </ol>
+	<p>Unordered List </p>
+	<ul><li>Apple </li>
+	<li> Mango </li> </ul>
+	<p> Description/ Definition List </p>
+	<dl>  <dt> CSS- </dt>  <dd> Cascading Style Sheet </dd> </dl>
+		
+
+</body>
+</html>
+
+	
