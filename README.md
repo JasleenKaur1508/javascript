@@ -41,8 +41,7 @@
 	<li> Mango </li> </ul>
 	<p> Description/ Definition List </p>
 	<dl>  <dt> CSS- </dt>  <dd> Cascading Style Sheet </dd> </dl>
-		
-
+</section>
 </body>
 </html>
 
