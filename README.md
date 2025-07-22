@@ -5,11 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title> HTML Tags </title>
 <style>
-	section{border:solid grey 1px;
+	body { font-family: Arial, sans-serif; margin: 20px; }
+	h2 { color: darkblue; }
+	section{border:solid black 1px;
 		margin-bottom: 30px;
 		padding: 10px;}
 </style>
-
 </head>
 <body>
 	<h1> HTML All Tags Example </h1>
